@@ -1,0 +1,23 @@
+PODS:
+  - shared (1.0)
+  - WebRTC-SDK (104.5112.11)
+
+DEPENDENCIES:
+  - shared (from `../shared`)
+  - WebRTC-SDK (= 104.5112.11)
+
+SPEC REPOS:
+  trunk:
+    - WebRTC-SDK
+
+EXTERNAL SOURCES:
+  shared:
+    :path: "../shared"
+
+SPEC CHECKSUMS:
+  shared: 2d3b24a8fe27b7d9e65b8d075a9672fbc6a1aa10
+  WebRTC-SDK: 98ab93b8d28f33699a6d4909a06e824a6c7497aa
+
+PODFILE CHECKSUM: 4588a97d26a74a587363381595a57f152fb0c83a
+
+COCOAPODS: 1.11.3
